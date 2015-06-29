@@ -1,0 +1,14 @@
+{
+  "numberOfReview": 29,
+  "url" : "https://itunes.apple.com/rss/customerreviews/page=%s/id=%s/sortby=mostrecent/json?cc=%s",
+  "successUrl": "http://plugy.io/qna/webhook?appid=%s&messagetype=crawler&store=appStore",
+
+  "countryId": {
+    "en" : "143441-1",
+    "ko" : "143466-1",
+    "ja" : "143462-1",
+    "cn" : "143465-1",
+    "fr" : "143442-2"
+  }
+}
+
